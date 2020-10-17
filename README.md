@@ -36,6 +36,8 @@ You can visit this course <a href="https://www.udemy.com/course/vue-js-completo/
 
 #
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/026c9b6c530f44afa307d303b5dc2cd5)](https://app.codacy.com/gh/Danilo-Js/VueJS-2-My-First-Projects?utm_source=github.com&utm_medium=referral&utm_content=Danilo-Js/VueJS-2-My-First-Projects&utm_campaign=Badge_Grade)
+
 ### :balloon: What is this?
 
 This is a compilation of simple projects showing the first steps I made in VueJS. These projects were made just to practice simple VueJS concepts
