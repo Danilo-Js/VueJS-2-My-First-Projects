@@ -42,7 +42,7 @@ This is a compilation of simple projects showing the first steps I made in VueJS
 
 #
 
-### :iphone: What VuesJS concepts?
+### :iphone: What VueJS concepts?
 
 - What is VueJS and why should I use it?
 
