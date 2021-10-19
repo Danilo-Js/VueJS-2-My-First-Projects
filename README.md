@@ -11,10 +11,6 @@ You can visit this course <a href="https://www.udemy.com/course/vue-js-completo/
 
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Danilo-Js/VueJS-2-My-First-Projects">
 
-  <a href="https://app.codacy.com/gh/Danilo-Js/VueJS-2-My-First-Projects?utm_source=github.com&utm_medium=referral&utm_content=Danilo-Js/VueJS-2-My-First-Projects&utm_campaign=Badge_Grade">
-    <img alt="Codacy grade" src="https://api.codacy.com/project/badge/Grade/026c9b6c530f44afa307d303b5dc2cd5">
-  </a>
-
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/Danilo-Js/VueJS-2-My-First-Projects">
   
   <a href="https://img.shields.io/github/last-commit/Danilo-Js/VueJS-2-My-First-Projects/commits/master">
